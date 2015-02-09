@@ -29,7 +29,7 @@ Delivery (10 minutes)
 - The developer returns and the product owner leaves.
 - The product owner needs to remain nearby for questions, but not in the room
 - The analyst provides the written specification to the developer.
-•The analyst may provide answers to any of the developer's questions.
+- The analyst may provide answers to any of the developer's questions.
 - The analyst may ask the product owner as many questions as necessary, but must leave the room to do so.
 - The developer draws the picture.
 
