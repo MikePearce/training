@@ -10,9 +10,10 @@ By Michael McCullough, on June 20th, 2009
 ## Directions:
 
 Pair up participants and provide an instruction sheet (face down) to one person in each pair (the “instructor”), and provide a blank sheet of paper to the other member of the pair (the “folder”). Split the pairs into three groups:
-* Group 1 sits side-by-side,
-* Group 2 sits face-to-face, and
-* Group 3 sits back-to-back.
+
+- Group 1 sits side-by-side,
+- Group 2 sits face-to-face, and
+- Group 3 sits back-to-back.
 
 On “Go!” the person with the instruction sheet flips it over and instructs the other member of the pair how to fold the origami.
 * In Group 1, one person folds, but both can consult the instruction sheet as much as needed.
