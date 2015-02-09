@@ -4,7 +4,7 @@ By Michael McCullough, on June 20th, 2009
 ## Timing: 15 mins
 
 ## Ingredients:
-* Origami instructions for half the participants [like this one](http://blog.tastycupcakes.com/wp-content/uploads/2010/12/Origami-Instructions-Improving.pdf)
+* Origami instructions for half the participants [like this one][1]
 * Blank standard sized printer paper for half the participants
 
 ## Directions:
@@ -28,3 +28,5 @@ As each group successfully completes the origami item, have them stand up. The f
 
 
 Credit: Ken Howard
+
+[1]:	http://blog.tastycupcakes.com/wp-content/uploads/2010/12/Origami-Instructions-Improving.pdf
